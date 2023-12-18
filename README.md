@@ -7,7 +7,7 @@
 ----
 
 #### **Integrantes:**
-- **Merayo, Federico** - Github: [FmmerayoUTN ](https://github.com/FmmerayoUTN)
+- **Merayo, Federico** - Github: [FedeMerayo ](https://github.com/FedeMerayo)
 - **Villalba, Diego** - Github: [diego](https://github.com/dmatia)
 - **Gomez Nieto, Alejandro** - Github: [alefigure8](https://github.com/alefigure8)
 
